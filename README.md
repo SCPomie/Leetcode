@@ -118,9 +118,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SCPomie/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/SCPomie/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SCPomie/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/SCPomie/Leetcode/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/SCPomie/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
