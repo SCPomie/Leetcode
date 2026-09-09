@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SCPomie/Leetcode/tree/master/0189-rotate-array) |
 | [0212-word-search-ii](https://github.com/SCPomie/Leetcode/tree/master/0212-word-search-ii) |
 | [0239-sliding-window-maximum](https://github.com/SCPomie/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0274-h-index](https://github.com/SCPomie/Leetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/SCPomie/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/SCPomie/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/SCPomie/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/SCPomie/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/SCPomie/Leetcode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/SCPomie/Leetcode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/SCPomie/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/SCPomie/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0883-car-fleet](https://github.com/SCPomie/Leetcode/tree/master/0883-car-fleet) |
@@ -290,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/SCPomie/Leetcode/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SCPomie/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SCPomie/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/SCPomie/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
