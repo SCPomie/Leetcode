@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SCPomie/Leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/SCPomie/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SCPomie/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/SCPomie/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/SCPomie/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SCPomie/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SCPomie/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/SCPomie/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/SCPomie/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SCPomie/Leetcode/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/SCPomie/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SCPomie/Leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/SCPomie/Leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SCPomie/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
