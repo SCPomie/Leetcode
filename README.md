@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SCPomie/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SCPomie/Leetcode/tree/master/0189-rotate-array) |
 | [0212-word-search-ii](https://github.com/SCPomie/Leetcode/tree/master/0212-word-search-ii) |
+| [0238-product-of-array-except-self](https://github.com/SCPomie/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/SCPomie/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/SCPomie/Leetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/SCPomie/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -304,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/SCPomie/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/SCPomie/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
