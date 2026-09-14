@@ -1,21 +1,21 @@
 class Solution:
     def trap(self, height: List[int]) -> int:
+        
+        if not height: return 0
+
         l, r = 0, len(height) - 1
-        maxLeft, maxRight = 0, 0
-        water = 0
+        # sets the index at the start and the end of the array. formula = min(maxleft, maxright) - height[i]
+        leftMax, rightMax = height[l], height[r]
+        res = 0
 
         while l < r:
-            if height[l] < height[r]:
-                if height[l] >= maxLeft:
-                    maxLeft = height[l]
-                else:
-                    water += maxLeft - height[l]
+            if leftMax < rightMax:
                 l += 1
+                leftMax = max(leftMax, height[l])
+                res += leftMax - height[l]
             else:
-                if height[r] >= maxRight:
-                    maxRight = height[r]
-                else:
-                    water += maxRight - height[r]
                 r -= 1
+                rightMax = max(rightMax, height[r])
+                res += rightMax - height[r]
         
-        return water
+        return res
