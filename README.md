@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SCPomie/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/SCPomie/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/SCPomie/Leetcode/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/SCPomie/Leetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/SCPomie/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/SCPomie/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/SCPomie/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SCPomie/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SCPomie/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/SCPomie/Leetcode/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/SCPomie/Leetcode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/SCPomie/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SCPomie/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SCPomie/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -343,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SCPomie/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/SCPomie/Leetcode/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
