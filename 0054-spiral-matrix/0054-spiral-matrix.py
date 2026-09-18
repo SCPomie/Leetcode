@@ -17,6 +17,7 @@ class Solution:
             
             right -= 1
 
+            # makes sure that no same row/column are re-traversed
             if not (left < right and top < bottom):
                 break
             
