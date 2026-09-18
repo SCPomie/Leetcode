@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/SCPomie/Leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/SCPomie/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SCPomie/Leetcode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/SCPomie/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SCPomie/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/SCPomie/Leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/SCPomie/Leetcode/tree/master/0068-text-justification) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/SCPomie/Leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/SCPomie/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SCPomie/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SCPomie/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0212-word-search-ii](https://github.com/SCPomie/Leetcode/tree/master/0212-word-search-ii) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SCPomie/Leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/SCPomie/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SCPomie/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/SCPomie/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/SCPomie/Leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SCPomie/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Bit Manipulation
