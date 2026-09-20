@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SCPomie/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/SCPomie/Leetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/SCPomie/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/SCPomie/Leetcode/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/SCPomie/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SCPomie/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0643-maximum-average-subarray-i](https://github.com/SCPomie/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/SCPomie/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SCPomie/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0212-word-search-ii](https://github.com/SCPomie/Leetcode/tree/master/0212-word-search-ii) |
+| [0289-game-of-life](https://github.com/SCPomie/Leetcode/tree/master/0289-game-of-life) |
 ## Two Pointers
 |  |
 | ------- |
@@ -376,4 +378,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/SCPomie/Leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/SCPomie/Leetcode/tree/master/0068-text-justification) |
+| [0289-game-of-life](https://github.com/SCPomie/Leetcode/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
