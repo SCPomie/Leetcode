@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SCPomie/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SCPomie/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/SCPomie/Leetcode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/SCPomie/Leetcode/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/SCPomie/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/SCPomie/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SCPomie/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/SCPomie/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/SCPomie/Leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/SCPomie/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/SCPomie/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/SCPomie/Leetcode/tree/master/0274-h-index) |
@@ -404,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SCPomie/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/SCPomie/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
