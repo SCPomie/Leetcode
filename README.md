@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SCPomie/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/SCPomie/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/SCPomie/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/SCPomie/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/SCPomie/Leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/SCPomie/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SCPomie/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/SCPomie/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/SCPomie/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/SCPomie/Leetcode/tree/master/0212-word-search-ii) |
+| [0242-valid-anagram](https://github.com/SCPomie/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/SCPomie/Leetcode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SCPomie/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/SCPomie/Leetcode/tree/master/0383-ransom-note) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/SCPomie/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/SCPomie/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/SCPomie/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/SCPomie/Leetcode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/SCPomie/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/SCPomie/Leetcode/tree/master/0451-sort-characters-by-frequency) |
