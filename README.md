@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/SCPomie/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/SCPomie/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/SCPomie/Leetcode/tree/master/0212-word-search-ii) |
+| [0224-basic-calculator](https://github.com/SCPomie/Leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/SCPomie/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/SCPomie/Leetcode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SCPomie/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/SCPomie/Leetcode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SCPomie/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/SCPomie/Leetcode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/SCPomie/Leetcode/tree/master/0224-basic-calculator) |
 | [0883-car-fleet](https://github.com/SCPomie/Leetcode/tree/master/0883-car-fleet) |
 ## Sorting
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SCPomie/Leetcode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SCPomie/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/SCPomie/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/SCPomie/Leetcode/tree/master/0224-basic-calculator) |
 ## Math
 |  |
 | ------- |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/SCPomie/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/SCPomie/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SCPomie/Leetcode/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/SCPomie/Leetcode/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SCPomie/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Bit Manipulation
 |  |
