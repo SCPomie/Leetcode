@@ -4,6 +4,8 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+from collections import deque
+
 class Solution:
     def averageOfLevels(self, root: TreeNode | None) -> list[float]:
         #base case
@@ -11,22 +13,25 @@ class Solution:
             return []
 
         #initialise the answer and the queue
-        result, queue = [], [root]
-        average = 0
+        result, queue = [], deque([root])
+
         #while the queue exists
         while queue:
-            #length of the queue:
+            #length of the queue
             queue_length = len(queue)
+            level_sum = 0
+
             #loops through the queue
-            for i in range(len(queue)):
-                node = queue.pop(0)
-                if node:
-                    average += node.val
+            for i in range(queue_length):
+                node = queue.popleft()
+
+                level_sum += node.val
+
                 if node.left:
                     queue.append(node.left)
                 if node.right:
                     queue.append(node.right)
-            average = average / queue_length
-            result.append(average)
-            average = 0
+
+            result.append(level_sum / queue_length)
+
         return result
