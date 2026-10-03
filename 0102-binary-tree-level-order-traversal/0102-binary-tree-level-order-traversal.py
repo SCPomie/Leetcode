@@ -6,18 +6,22 @@
 #         self.right = right
 class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
+        #initialise the answer and the queue
         ans = []
-
-        q = collections.deque()
-        q.append(root)
+        q = deque([root])
+        #while the queue exists
         while q:
+            #counts the level
             level = []
+            #iterates through the queue, pop the element and add the values
             for i in range(len(q)):
                 node = q.popleft()
                 if node:
                     level.append(node.val)
                     q.append(node.left)
                     q.append(node.right)
+            #if level contains any value, add it to the answer
             if level:
                 ans.append(level)
+        #return the answer
         return ans
