@@ -8,9 +8,10 @@ class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
         
         def valid(node, left, right):
+            #base case
             if not node:
                 return True
-            
+            #BST condition
             if not (node.val > left and node.val < right):
                 return False
             return ((valid(node.left, left, node.val) and valid(node.right, node.val, right)))
