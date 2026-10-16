@@ -10,7 +10,9 @@ class Solution:
         #backtracking
         def backtrack(r):
             nonlocal res
-            #base condition
+            #base condition, only true when all row has a queen in it.
+            #n = 4, last row is actually 3 beacuse of 0 index.
+            #which means 4 == 4 would only be true if all rows has been checked
             if r == n:
                 res += 1
                 return
