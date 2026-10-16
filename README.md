@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/SCPomie/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/SCPomie/Leetcode/tree/master/0046-permutations) |
+| [0052-n-queens-ii](https://github.com/SCPomie/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/SCPomie/Leetcode/tree/master/0077-combinations) |
 | [0212-word-search-ii](https://github.com/SCPomie/Leetcode/tree/master/0212-word-search-ii) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -568,4 +569,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/SCPomie/Leetcode/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/SCPomie/Leetcode/tree/master/0433-minimum-genetic-mutation) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/SCPomie/Leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
