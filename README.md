@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/SCPomie/Leetcode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/SCPomie/Leetcode/tree/master/0883-car-fleet) |
 | [0909-snakes-and-ladders](https://github.com/SCPomie/Leetcode/tree/master/0909-snakes-and-ladders) |
+| [0918-maximum-sum-circular-subarray](https://github.com/SCPomie/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SCPomie/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/SCPomie/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/SCPomie/Leetcode/tree/master/0427-construct-quad-tree) |
+| [0918-maximum-sum-circular-subarray](https://github.com/SCPomie/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -283,10 +285,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SCPomie/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0918-maximum-sum-circular-subarray](https://github.com/SCPomie/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SCPomie/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0918-maximum-sum-circular-subarray](https://github.com/SCPomie/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -502,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SCPomie/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SCPomie/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/SCPomie/Leetcode/tree/master/0392-is-subsequence) |
+| [0918-maximum-sum-circular-subarray](https://github.com/SCPomie/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting Sort
 |  |
 | ------- |
