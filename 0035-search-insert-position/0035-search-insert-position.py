@@ -17,5 +17,3 @@ class Solution:
                 right = mid - 1
         #returns left which would be the posiiton of the target
         return left
-        
-        
