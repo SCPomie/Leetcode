@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/SCPomie/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/SCPomie/Leetcode/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/SCPomie/Leetcode/tree/master/1023-time-based-key-value-store) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SCPomie/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## String
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/SCPomie/Leetcode/tree/master/0883-car-fleet) |
 | [0909-snakes-and-ladders](https://github.com/SCPomie/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SCPomie/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SCPomie/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Matrix
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/SCPomie/Leetcode/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SCPomie/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/SCPomie/Leetcode/tree/master/0502-ipo) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SCPomie/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Stack
 |  |
 | ------- |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SCPomie/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/SCPomie/Leetcode/tree/master/0502-ipo) |
 | [0883-car-fleet](https://github.com/SCPomie/Leetcode/tree/master/0883-car-fleet) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SCPomie/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -296,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SCPomie/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/SCPomie/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/SCPomie/Leetcode/tree/master/0502-ipo) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SCPomie/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -610,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SCPomie/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/SCPomie/Leetcode/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/SCPomie/Leetcode/tree/master/0289-game-of-life) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SCPomie/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
