@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/SCPomie/Leetcode/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/SCPomie/Leetcode/tree/master/0767-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/SCPomie/Leetcode/tree/master/1023-time-based-key-value-store) |
+| [2222-number-of-ways-to-select-buildings](https://github.com/SCPomie/Leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
 ## Binary Search
 |  |
 | ------- |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SCPomie/Leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/SCPomie/Leetcode/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SCPomie/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [2222-number-of-ways-to-select-buildings](https://github.com/SCPomie/Leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
 ## Counting Sort
 |  |
 | ------- |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SCPomie/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SCPomie/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [2222-number-of-ways-to-select-buildings](https://github.com/SCPomie/Leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
 ## Z Algorithm
 |  |
 | ------- |
