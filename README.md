@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/SCPomie/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SCPomie/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/SCPomie/Leetcode/tree/master/0994-rotting-oranges) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/SCPomie/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SCPomie/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Matrix
 |  |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SCPomie/Leetcode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/SCPomie/Leetcode/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SCPomie/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/SCPomie/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SCPomie/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/SCPomie/Leetcode/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/SCPomie/Leetcode/tree/master/0289-game-of-life) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/SCPomie/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SCPomie/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -752,4 +755,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SCPomie/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/SCPomie/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/SCPomie/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
