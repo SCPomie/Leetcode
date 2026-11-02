@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/SCPomie/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/SCPomie/Leetcode/tree/master/0994-rotting-oranges) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/SCPomie/Leetcode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/SCPomie/Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/SCPomie/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SCPomie/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Matrix
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/SCPomie/Leetcode/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SCPomie/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/SCPomie/Leetcode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/SCPomie/Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/SCPomie/Leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
 ## Counting Sort
 |  |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SCPomie/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SCPomie/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/SCPomie/Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/SCPomie/Leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
 ## Z Algorithm
 |  |
