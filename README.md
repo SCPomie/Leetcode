@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SCPomie/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/SCPomie/Leetcode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/SCPomie/Leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SCPomie/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Matrix
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/SCPomie/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/SCPomie/Leetcode/tree/master/0994-rotting-oranges) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/SCPomie/Leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SCPomie/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Two Pointers
 |  |
 | ------- |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/SCPomie/Leetcode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/SCPomie/Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/SCPomie/Leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SCPomie/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Counting Sort
 |  |
 | ------- |
