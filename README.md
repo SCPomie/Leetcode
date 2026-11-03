@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/SCPomie/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SCPomie/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/SCPomie/Leetcode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/SCPomie/Leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Matrix
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/SCPomie/Leetcode/tree/master/0427-construct-quad-tree) |
 | [0909-snakes-and-ladders](https://github.com/SCPomie/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/SCPomie/Leetcode/tree/master/0994-rotting-oranges) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/SCPomie/Leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Two Pointers
 |  |
 | ------- |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/SCPomie/Leetcode/tree/master/0289-game-of-life) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/SCPomie/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SCPomie/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/SCPomie/Leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
