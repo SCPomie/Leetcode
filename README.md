@@ -778,4 +778,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/SCPomie/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+## Database
+|  |
+| ------- |
+| [3415-find-products-with-three-consecutive-digits](https://github.com/SCPomie/Leetcode/tree/master/3415-find-products-with-three-consecutive-digits) |
 <!---LeetCode Topics End-->
