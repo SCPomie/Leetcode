@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/SCPomie/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/SCPomie/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/SCPomie/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/SCPomie/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/SCPomie/Leetcode/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/SCPomie/Leetcode/tree/master/0767-reorganize-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SCPomie/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/SCPomie/Leetcode/tree/master/0427-construct-quad-tree) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SCPomie/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/SCPomie/Leetcode/tree/master/0502-ipo) |
+| [0560-subarray-sum-equals-k](https://github.com/SCPomie/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/SCPomie/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/SCPomie/Leetcode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/SCPomie/Leetcode/tree/master/0883-car-fleet) |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SCPomie/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SCPomie/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/SCPomie/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/SCPomie/Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/SCPomie/Leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/SCPomie/Leetcode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
