@@ -1,39 +1,36 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: list[list[int]]) -> bool:
-        # Dictionary mapping each course to its prerequisites
-        prevMap = {i: [] for i in range(numCourses)}
-        for crs, prev in prerequisites:
-            prevMap[crs].append(prev)
+        #create a dictionary first
+        preMap = {i : [] for i in range(numCourses)}
 
-        # Track courses in the current DFS path to detect cycles
-        visiting = set()
+        #add each preequisite to the correct course
+        for course, prev in prerequisites:
+            preMap[course].append(prev)
+        
+        visit = set()
 
-        # Recursive DFS
-        def dfs(crs):
-            # If the course is already in the current path, a cycle is detected
-            if crs in visiting:
+        def dfs(course):
+            #if there is a cycle return false
+            if course in visit:
                 return False
-
-            # Return True if no prerequisites or already verified
-            if prevMap[crs] == []:
-                return True
-
-            # Add the course to the current DFS path
-            visiting.add(crs)
-
-            # Check all prerequisites; return False if any DFS detects a cycle
-            for prev in prevMap[crs]:
+            #add it to the visit
+            visit.add(course)
+            #loop through the preequisites
+            for prev in preMap[course]:
+                #if the dfs returns false then return false
                 if not dfs(prev):
                     return False
-
-            # Remove from current path and mark as verified
-            visiting.remove(crs)
-            prevMap[crs] = []
+            #remove the current course from visit
+            visit.remove(course)
+            #clear the [couse]
+            preMap[course] = []
+            #returns true
+            
             return True
 
-        # Check every course to ensure no cycles exist
-        for c in range(numCourses):
-            if not dfs(c):
+        #calls the dfs(courses) 
+        for course in range(numCourses):
+            if not dfs(course):
                 return False
-
+    
         return True
