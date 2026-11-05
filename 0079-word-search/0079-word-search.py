@@ -19,7 +19,7 @@ class Solution:
                 backtrack(r - 1, c, i + 1) or #up
                 backtrack(r, c + 1, i + 1) or   #right
                 backtrack(r, c - 1, i + 1) or #left
-                visited.remove((r, c))):
+            visited.remove((r, c))):
                 return True
         #loop over the board, return True if any cordinate will provide a good word
         for r in range(row):
